@@ -5,7 +5,7 @@
 该项目资料目前包含4个文件夹，分别对应，(1)Wi-Fi书籍资料（Wi-Fi_Books），(2)Wi-Fi抓包资料（Wi-Fi_Capture），(3)Wi-Fi相关标准（Wi-Fi_Specification），(4)Wi-Fi学术研究（Wi-Fi_Research）。
 
 ## Wi-Fi书籍资料（Wi-Fi_Books）
-在该资料文件夹下，分别整理成7个方面相关资料。分别对应，(1)Wi-Fi综合概述类（Wi-Fi_Tutorial），(2)Wi-Fi综合信息类（Wi-Fi_Information），(3)Wi-Fi实现类（Wi-Fi_Coding），(4)Wi-Fi仿真类（Wi-Fi_Simulation），(5)Wi-Fi网管类（Wi-Fi_Network_Management），(6)Wi-Fi安全类（Wi-Fi_Security），(7)Wi-Fi认证相关类（Wi-Fi_Certification），(8)Wi-Fi考古类（Wi-Fi_History）。
+在该资料文件夹下，分别整理成9个方面相关资料。分别对应，(1)Wi-Fi综合概述类（Wi-Fi_Tutorial），(2)Wi-Fi综合信息类（Wi-Fi_Information），(3)Wi-Fi实现类（Wi-Fi_Coding），(4)Wi-Fi仿真类（Wi-Fi_Simulation），(5)Wi-Fi网管类（Wi-Fi_Network_Management），(6)Wi-Fi安全类（Wi-Fi_Security），(7)Wi-Fi认证相关类（Wi-Fi_Certification），(8)Wi-Fi考古类（Wi-Fi_History），(9)Wi-Fi市场报告类（Wi-Fi_Market_Report）。
 
 ## Wi-Fi抓包资料（Wi-Fi_Capture）
 在该资料文件夹下，目前初步搜集整理一些抓包资料，这一块目前逐步开始整理。
