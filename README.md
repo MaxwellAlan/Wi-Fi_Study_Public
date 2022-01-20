@@ -1,3 +1,5 @@
+# English Doc(https://github.com/fzxy002763/Wi-Fi_Study_Public/blob/master/README-EN.md)
+
 # Wi-Fi学习资料汇总
 该项目主要是收集汇总一些对于Wi-Fi学习有帮助的资料。希望这些资料对于大家能有所借鉴。
 
