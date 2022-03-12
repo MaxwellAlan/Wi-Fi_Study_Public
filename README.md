@@ -19,4 +19,4 @@
 在该资料文件夹下，分别整理成5个方面的相关资料。分别对应，(1)Wi-Fi7的研究（Wi-Fi7_Research），(2)Wi-Fi的物理层研究（Wi-Fi_PHY），(3)Wi-Fi的MAC层研究（Wi-Fi_MAC），(4)Wi-Fi的新应用场景研究（Wi-Fi_NewCase），(5)Wi-Fi的标准综述（Wi-Fi_Survey）。
 
 有兴趣讨论802.11（Wi-Fi）相关技术的，可以加入Q群讨论组。
-![image](Image/QQ_Group.png)
+![image](Image/QQ_Group.png){:height="50%" width="50%"}
